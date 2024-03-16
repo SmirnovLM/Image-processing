@@ -1,0 +1,11 @@
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Рабочий стол\ННГУ_УЧЕБА\Обработка Изображений\Прога\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HistogramForm.resources
